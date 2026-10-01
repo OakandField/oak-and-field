@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oak & Field Land Consultancy</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background: #2f4f2f;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    color: #2f4f2f;
+}
+
+.service {
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+.button {
+    display: inline-block;
+    background: #5a7d2b;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>Oak & Field Land Consultancy</h1>
+    <p>Helping farmers and landowners unlock the value of trees, woodlands and integrated land use.</p>
+    <aontactGet in Touch</a>
+</header>
+
+<section>
+    <h2>About</h2>
+    <p>
+    Oak & Field is an independent consultancy based in Cumbria, providing practical advice on woodland management,
+    agroforestry, tree establishment and integrated land use planning.
+    </p>
+</section>
+
+<section>
+    <h2>Services</h2>
+
+    <div class="service">
+        <h3>Woodland Management</h3>
+        <p>Management planning, grant support and bringing farm woodlands into productive management.</p>
+    </div>
+
+    <div class="service">
+        <h3>Agroforestry</h3>
+        <p>Design and implementation of farm-scale agroforestry systems.</p>
+    </div>
+
+    <div class="service">
+        <h3>Land Use & Environmental Projects</h3>
+        <p>Supporting landowners, communities and public sector organisations with integrated land use projects.</p>
+    </div>
+
+</section>
+
+<section>
+    <h2>About Gary Waters</h2>
+    <p>
+    Gary Waters is a forestry and agroforestry consultant with experience across commercial forestry,
+    woodland creation, community forestry and integrated land management.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.co.uk</p>
+    <p>LinkedIn: Add your profile link here</p>
+</section>
+
+<footer>
+    © 2026 Oak & Field Land Consultancy
+</footer>
+
+</body>
+</html>
